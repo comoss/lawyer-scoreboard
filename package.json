@@ -1,0 +1,24 @@
+{
+  "name": "lawyer-scoreboard",
+  "version": "0.0.0",
+  "description": "lawyer-scoreboard =================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comoss/lawyer-scoreboard.git"
+  },
+  "author": "Cody Moss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comoss/lawyer-scoreboard/issues"
+  },
+  "homepage": "https://github.com/comoss/lawyer-scoreboard",
+  "dependencies": {
+    "express": "^4.8.1",
+    "mysql": "^2.4.2",
+    "sequelize": "^1.7.9"
+  }
+}
